@@ -8,6 +8,8 @@ export default function Texto({children}: any) {
 const estilos = StyleSheet.create({
     estilo_texto: {
         color: "navy",
-        fontSize: 20
+        fontSize: 20,
+        fontWeight: "bold",
+        textAlign: "center"
     }
 });
