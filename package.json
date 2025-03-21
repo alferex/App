@@ -9,12 +9,17 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/bebas-neue": "^0.2.3",
+    "@expo-google-fonts/lato": "^0.2.3",
+    "@expo-google-fonts/montserrat": "^0.2.3",
     "expo": "~52.0.33",
+    "expo-av": "~15.0.2",
+    "expo-font": "~13.0.4",
     "expo-status-bar": "~2.0.1",
+    "expo-video": "~2.0.5",
     "react": "18.3.1",
     "react-native": "0.76.7",
-    "expo-av": "~15.0.2",
-    "expo-video": "~2.0.5"
+    "undefined": "@expo-google-fonts/Bebas+Neue"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
